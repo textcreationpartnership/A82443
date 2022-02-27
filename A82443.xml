@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anno regni Caroli II. Regis Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ, duodecimo. At the Parliament begun at Westminster, the 25th day of April, Anno Domini, 1660. In the twelfth year of the reign of our most gracious soveraign lord Charles, by the grace of God, of England, Scotland, France, and Ireland, King, defender of the faith, &amp;c.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82443</idno>
+            <idno type="STC">Wing E1104</idno>
+            <idno type="STC">ESTC R208426</idno>
+            <idno type="EEBO-CITATION">45578353</idno>
+            <idno type="OCLC">ocm 45578353</idno>
+            <idno type="VID">172279</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82443)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172279)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2623:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Anno regni Caroli II. Regis Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ, duodecimo. At the Parliament begun at Westminster, the 25th day of April, Anno Domini, 1660. In the twelfth year of the reign of our most gracious soveraign lord Charles, by the grace of God, of England, Scotland, France, and Ireland, King, defender of the faith, &amp;c.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[9] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Macock, and Francis Tyton, printers to the House of Peers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Judicial process --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:172279:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 110 -->
+            <p>
+               <figure>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:172279:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 109 -->
+            <p>Anno Regni CAROLI II. REGIS <hi>Angliae, Scotiae, Franciae,</hi> &amp; <hi>Hiberniae,</hi> DUODECIMO.</p>
+            <p>At the Parliament begun at <hi>Weſtminſter,</hi> the 25<hi rend="sup">th</hi> day of <hi>April, An<g ref="char:EOLhyphen"/>no Domini,</hi> 1660.</p>
+            <p>In the Twelfth Year of the Reign of our moſt Gracious Soveraign Lord CHARLES, by the Grace of God, of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> King, Defender of the Faith, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Macock,</hi> and <hi>Francis Tyton,</hi> Printers to the Houſe of Peers, 1660.</p>
+            <pb facs="tcp:172279:1"/>
+            <!-- PDF PAGE 109 -->
+            <pb facs="tcp:172279:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 110 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:172279:3"/>
+            <!-- PDF PAGE 111 -->
+            <pb facs="tcp:172279:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 111 -->
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <dateline>
+                  <date>ANNO XII. Caroli II. Regis.</date>
+               </dateline>
+            </opener>
+            <head>An Act for the continuance of <hi>Proceſs</hi> and <hi>Judicial Proceedings.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the four firſt Re<g ref="char:EOLhyphen"/>torns of <hi>Eaſter</hi> Term, in the Year <hi>1660.</hi> of late cal<g ref="char:EOLhyphen"/>led, from <hi>Eaſter</hi> day in fif<g ref="char:EOLhyphen"/>teen days, from <hi>Eaſter</hi> day in three weeks, from <hi>Eaſter</hi> day in one moneth, and from <hi>Eaſter</hi> day in five weeks, or any of them, cannot be conveniently kept or holden: Now for avoiding all manner of diſcontinuances whatſoever, which by occa<g ref="char:EOLhyphen"/>ſion thereof ſhould or might happen, or be in any matter or Cauſe whatſoever, in any the Courts at <hi>VVeſtminſter:</hi> Be it Enacted by the Kings Moſt Excellent Majeſty, and the Lords and
+<pb facs="tcp:172279:4"/>
+               <!-- PDF PAGE 112 -->Commons Aſſembled in Parliament, That no Pleas, Writs, Bills, Actions, Suits, Plaints, Proceſs, Precepts, or other thing or things what<g ref="char:EOLhyphen"/>ſoever, Pleaded, Retorned, or Depending, or having day or days in any of the ſaid Courts, in or at the ſaid ſeveral Retorns, or any of them, or at any other day or days certam after any of the ſaid Retorns, ſhall be in any wiſe diſconti<g ref="char:EOLhyphen"/>nued, or put without day, for or by reaſon of the not keeping or holding of the ſaid Retorns, or days, or any of them; but that all and ſingular the ſaid Pleas, Writs, Bills, Actions, Suits, Plaints, Proceſs, Precepts, and other the Pre<g ref="char:EOLhyphen"/>miſes aforeſaid, ſhall ſtand, continue, and be good and effectual in Law, to all Intents and Purpoſes, as if the ſaid Retorns and days, and every of them, had been actually kept and hold<g ref="char:EOLhyphen"/>en in all and every the ſaid Courts; any Law, Statute, Cuſtom, or Vſage to the contrary thereof in any wiſe notwithſtanding.</p>
+            <p>And be it further Enacted by the Authority a<g ref="char:EOLhyphen"/>foreſaid, That all Pleas, Writs, Bills, Actions, Suits, Plaints, Proceſſe, Precepts, and other thing or things whatſoever aforeſaid, pleadable, or to be pleaded, Retornable, or to be Retorned, or having day in any manner whatſoever at any of the ſaid Retorns, or any day or days certain after any of the ſaid Retorns, Be and are here<g ref="char:EOLhyphen"/>by continued and adjourned, unto (and ſhall or may be Pleaded, Retorned, Heard, and Deter<g ref="char:EOLhyphen"/>mined in the Reſpective Courts aforeſaid) at, or on the fifth Retorn of the ſaid Term, of late called, In the morrow of the Aſcenſion of our Lord, And that all Parties in any Pleas,
+<pb facs="tcp:172279:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 112 -->Writs, Bills, Actions, Suits, Plaints, Pro<g ref="char:EOLhyphen"/>ceſs, or other thing or things whatſoever, having daies given them at any of the ſaid four firſt Retorns, or at any other day or dayes certain, after any of the ſaid Retorns in the ſaid Courts, or any of them, by virtue of this preſent Act, have the ſaid Retorn of late called, In the morrow of the Aſcenſion of our Lord, prefixed them therein; And that all Sheriffs, Officers, and other Miniſters whatſoever, and every of them reſpectively, keep in their hands all Writs, Bills, Proceſs and Precepts, and all other things whatſoever to them directed reſpe<g ref="char:EOLhyphen"/>ctively Retornable, or to be Retorned in the ſe<g ref="char:EOLhyphen"/>veral Courts aforeſaid, at the ſaid four firſt Retorns, or any of them, in or at any day cer<g ref="char:EOLhyphen"/>tain, as aforeſaid, until the ſaid fifth Retorn, of late called, The morrow of the Aſcenſion of our Lord, and then Retorn the ſame into the ſaid ſe<g ref="char:EOLhyphen"/>veral Courts reſpectively, That ſuch proceed<g ref="char:EOLhyphen"/>ings may be then had thereupon, as ſhould have been had, in caſe the ſaid four firſt Retorns had been kept and holden.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That no Writs, Proceſs, Plaints, Pleas, Informations, Indictments, or Iudi<g ref="char:EOLhyphen"/>cial Proceedings, had, Commenced, or Proſecu<g ref="char:EOLhyphen"/>ted before the fifth day of <hi>May,</hi> in the ſaid Year of our Lord <hi>1660.</hi> in the Name, Stile, Title, or Teſt of <hi>Cuſtodes Libertatis Angliae Authoritate Parliamenti;</hi> or in the Name, Stile, Title, or Teſt of <hi>The Keepers of the Liberty of England by Authority of Parliament;</hi> or in the Name, Stile, Title or Teſt of <hi>Oliver <hi>Lord Protector of the Com<g ref="char:EOLhyphen"/>monwealth
+<pb facs="tcp:172279:5"/>
+                     <!-- PDF PAGE 113 -->of</hi> England, Scotland, <hi>and</hi> Ireland, <hi>and the Dominions thereto belonging;</hi>
+               </hi> or in the Name, Stile, Title, or Teſt of <hi>Oliver <hi>Lord Protector of the Commonwealth of</hi> England, Scotland, <hi>and</hi> Ireland, <hi>and the Dominions and Territories thereunto be<g ref="char:EOLhyphen"/>longing;</hi>
+               </hi> or in the Name, Stile, Title, or Teſt of <hi>Richard <hi>Lord Protector of the Commonwealth of</hi> England, Scotland, <hi>and</hi> Ireland, <hi>and the Domi<g ref="char:EOLhyphen"/>nions and Territories thereto belonging,</hi>
+               </hi> ſhall be put without day, abated, quaſhed, or diſcoutinued by His Majeſties moſt juſt re-aſſumption of the actual Exerciſe of His Kingly Government in this Kingdom; nor ſhall the ſame be cauſe of Er<g ref="char:EOLhyphen"/>rour, Abarement, or Diſcontinuance, but that all ſuch Writs, Proceſs, Plaints, Pleas, Informa<g ref="char:EOLhyphen"/>tions, Indictments, and Iudicial Proceédings, and all Commiſſions for taking of Anſwers, or Examination of Witneſſes, Commiſſion for ta<g ref="char:EOLhyphen"/>king of Fines, and Warrants of Attorney, Guardians, or Procheinamy, ſhall ſtand and be continued, and ſhall and may be proceéded upon, proſecuted, and retorned, notwithſtanding the ſame were commenced or proſecuted in Engliſh, and notwithſtanding the preſent happy Change and Reſtitution of His Majeſties Name and Stile in Iudicial Proceédings.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That one pretended Act made in the Year of our Lord, <hi>1650.</hi> Entituled, <hi>An Act for turning the Books of the Law, and all Proceſs and Proceedings in Courts of Juſtice, into Engliſh,</hi> ſhall ſtand and be in force, as if the ſame had been a good and effectual Act, from the firſt Re<g ref="char:EOLhyphen"/>torn of <hi>Eaſter</hi> Term, in the Year of our Lord
+<pb facs="tcp:172279:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 113 -->
+               <hi>1651.</hi> until the firſt day of <hi>Auguſt,</hi> in the Year of our Lord <hi>1660.</hi> and no longer. And whereas by one other pretended Act, made in the ſaid Year of our Lord <hi>1650.</hi> Entituled, <hi>An Act touching Corn and Meal,</hi> It was Enacted, or mentioned to be Enacted, That from and after the <hi>20<hi rend="sup">th</hi>
+               </hi> day of <hi>November, 1650.</hi> It ſhould and might be lawful to and for any Perſon or Perſons, De<g ref="char:EOLhyphen"/>fendant or Tenant, for or by reaſon of any mat<g ref="char:EOLhyphen"/>ter to be Pleaded, ſet forth, or alledged in Bar to any Action Real, Perſonal, or mixt in any Court of Record, to plead the General Iſſue of <hi>Not Guilty,</hi> or the like General Iſſue proper to the Nature of the Action or Suit Commenced; and for his or their Diſcharge or Acquitting to give any ſuch matter in evidence to the Iury that ſhall try the ſame, And that the ſaid m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tter ſhall be as available to ſuch perſon or perſons Detendant or Tenant to all intents and purpoſes, as if the ſaid matter had been ſpecially pleaded, ſet forth, or alledged in Barr of ſuch Action.</p>
+            <p>Be it further Enacted, That the ſaid preten<g ref="char:EOLhyphen"/>ded Act, as touching the pleading of the general Iſſue, ſhall by Authority hereof, ſtand and be in full force and effect according to the Tenor there<g ref="char:EOLhyphen"/>of, untill the ſaid firſt day of <hi>Auguſt,</hi> as if the ſame had beén a good and effectual Act of Par<g ref="char:EOLhyphen"/>liament, and no longer.</p>
+            <p>Provided alwaies, That where the general Iſſue hath beén ſince the ſaid <hi>20<hi rend="sup">th</hi>
+               </hi> day of <hi>No<g ref="char:EOLhyphen"/>vember 1650.</hi> pleaded, or ſhall before the ſaid firſt day of <hi>Auguſt</hi> in the ſaid Year of our Lord <hi>1660.</hi> be pleaded in any Action, That then up<g ref="char:EOLhyphen"/>on the Tryal of the ſaid Cauſe, ſuch Evidence
+<pb facs="tcp:172279:6"/>
+               <!-- PDF PAGE 114 -->ſhall and may be allowed as if the ſaid pretended Act touching the pleading of the General Iſſue had beén and continued a good and effectual Act of Parliament not determined or diſcontinued.</p>
+            <p>Provided alſo, That His Majeſties Royal Aſſent to the paſſing of this Bill, ſhall not ex<g ref="char:EOLhyphen"/>tend, or be conſtrued to extend to the determining of the Seſſion of this preſent Parliament.</p>
+            <p>Provided nevertheleſs, and be it Enacted, That all Writs, Patents, and Commiſſions for Conſtituting Iuſtices of either Bench, and Ba<g ref="char:EOLhyphen"/>rons of the Exchequer, Commiſſions of <hi>Oyer</hi> and <hi>Terminer</hi> and Goal Delivery, and Precepts upon Commiſſions of <hi>Oyer</hi> and <hi>Terminer</hi> and Goal Delivery, and all other Commiſſions here<g ref="char:EOLhyphen"/>after to be made by the Clerk of the Crown in the <hi>Chancery<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> Charters, and Letters Patens under the Great Seal, of Lands, Liberties, Ho<g ref="char:EOLhyphen"/>nours, or Offices, do or may Iſſue in the Kings Majeſties Name, in the ſame manner as was uſual before the making of the ſaid firſt recited pretended Act, any thing in this preſent Act to the contrary thereof before expreſſed, in any wiſe notwithſtanding.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:172279:6" rendition="simple:additions"/>
+            <!-- PDF PAGE 114 -->
+            <head>
+               <figure>
+                  <figDesc>Tudor rose, French fleur-de-lis, and Scottish thistle</figDesc>
+               </figure>
+            </head>
+            <p>Imprinted at LONDON by <hi>John Macock</hi> and <hi>Francis Tyton,</hi> Printers to the Houſe of PEERS.</p>
+            <p>Anno Domini 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
